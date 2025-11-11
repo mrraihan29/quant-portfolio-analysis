@@ -1,0 +1,18 @@
+# Lingkungan Anaconda 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+.Python 
+env/ 
+venv/ 
+.venv/ 
+*.egg-info/ 
+dist/ 
+build/ 
+*.csv 
+*.json 
+.env 
+\n# Cache Jupyter 
+.ipynb_checkpoints/ 
+.pytest_cache/ 
