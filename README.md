@@ -4,7 +4,7 @@ Repositori ini menyajikan analisis kuantitatif *end-to-end* dalam membangun dan 
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **Akuisisi Data:**  
   Pengunduhan data harga saham historis melalui **Yahoo Finance** (`yfinance`).
@@ -92,7 +92,7 @@ Analisis dilakukan terhadap data historis 5 tahun (Nov 2020 – Nov 2025) untuk 
 
 ---
 
-## 📚 Catatan Akademik
+## Catatan Akademik
 
 Analisis ini menegaskan relevansi **Modern Portfolio Theory (MPT)** dalam konteks saham teknologi.  
 - Portofolio konservatif menekankan **preservasi modal** dengan risiko minimal.  
